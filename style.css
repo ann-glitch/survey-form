@@ -1,15 +1,11 @@
 * {
-  background: #ffdd99;
-}
-
-body {
   font-family: 'Poppins', sans-serif;
   font-size: 18px;
-  color: black;
-  width: 100%;
-  margin: 3.125rem auto 0 auto;
-   
+  background: #ffdd99;
+  color:black
+
 }
+
   
   #title{
     text-align: center;
