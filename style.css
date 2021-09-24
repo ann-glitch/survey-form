@@ -3,7 +3,7 @@
 }
 
 #box {
-  background: url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg), #e6b3cc; 
+  background: #e6b3cc; 
   background-repeat: no repeat;
   background-size: cover;
   font-family: 'Poppins', sans-serif;
