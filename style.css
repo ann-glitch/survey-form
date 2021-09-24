@@ -17,12 +17,12 @@ body {
     top: 15px;
 }
 
-  #description {
+#description {
     text-align: center;
     font-style: italic;
 }
 
-  #survey-form {
+  form {
     background-color: #0f0f3e;
     width: 45%;
     border: 1px;
