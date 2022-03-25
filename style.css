@@ -1,5 +1,5 @@
 body {
-  background-image: url("../survey-form/images/surveypeople.jpeg");
+  background: url("../survey-form/images/surveypeople.jpeg");
 }
 #box {
   font-family: "Poppins", sans-serif;
@@ -13,11 +13,17 @@ body {
   text-align: center;
   position: relative;
   top: 15px;
+  color: #0f0f3e;
 }
 
 #description {
   text-align: center;
   font-style: italic;
+  color: #0f0f3e;
+}
+
+input {
+  outline: none;
 }
 
 form {
