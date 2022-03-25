@@ -13,13 +13,13 @@ body {
   text-align: center;
   position: relative;
   top: 15px;
-  color: #0f0f3e;
+  color: black;
 }
 
 #description {
   text-align: center;
   font-style: italic;
-  color: #0f0f3e;
+  color: black;
 }
 
 input {
